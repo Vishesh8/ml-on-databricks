@@ -1,2 +1,3 @@
-# ml-on-databricks
-Examples for MLOps and ML with Unity Catalog on Databricks
+# ML on Databricks
+
+Sample notebooks for implementing MLOps Workflows on Databricks and ML with Unity Catalog
